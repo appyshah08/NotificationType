@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationType</string>
+    <string name="title_activity_next">Next</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
